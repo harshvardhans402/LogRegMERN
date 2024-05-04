@@ -1,0 +1,9 @@
+/* App.css */
+.App {
+    text-align: center;
+    background-image: linear-gradient(#035162, rgb(11, 194, 179));
+    background-size: cover;
+    height: 100%;
+    margin-top: 0;
+    padding: 15px;
+}
