@@ -1,4 +1,4 @@
-Here's a README.md template for your project:
+
 
 # LogRegMern
 
@@ -13,7 +13,7 @@ This project implements a user authentication system using the MERN stack (Mongo
 - [Technologies Used](#technologies-used)
 - [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation
 
