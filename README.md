@@ -1,6 +1,5 @@
 Here's a README.md template for your project:
 
-```markdown
 # LogRegMern
 
 ## Description
